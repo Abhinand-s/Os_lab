@@ -98,7 +98,7 @@ for(i=0;i<np;i++){
         if(balloc[j]==i+1){
             flag=1;
             break;
-            printf("hi");
+            
         }
         }
         if(flag==0)
